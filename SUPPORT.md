@@ -29,7 +29,7 @@ FileMVP is intentionally designed to operate locally only.
 
 If you encounter an issue or have a question, you can contact support by opening an issue on GitHub:
 
-https://github.com/Vilonauzd/file/issues
+https://github.com/Vilonauzd/SUPPORT.md/issues
 
 Please include:
 - iOS version
