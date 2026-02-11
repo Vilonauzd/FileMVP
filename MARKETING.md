@@ -42,4 +42,4 @@ FileMVP is available for iOS via the Apple App Store.
 
 Support and issue tracking are available here:
 
-https://github.com/Vilonauzd/file
+https://github.com/Vilonauzd/SUPPORT.md
